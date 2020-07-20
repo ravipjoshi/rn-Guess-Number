@@ -7,7 +7,7 @@ export default function App() {
   return (
     <View style={styles.screen}>
           <Header title='Guess a Number'/>
-          <StartGameScreen title='Game Screen'/>
+          <StartGameScreen title='Choose a Number'/>
     </View>
   );
 }
